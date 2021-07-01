@@ -1,0 +1,16 @@
+.title {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div class="title">
+			Hello, goorm!!!!
+		</div>
+	</body>
+</html>
